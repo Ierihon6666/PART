@@ -1,0 +1,42 @@
+
+.resume-container {
+    padding: 20px;
+    position: relative;
+}
+
+.profile-photo {
+    width: 150px;
+    height: 120px;
+    position: absolute;
+    top: 5px;
+    right: 60px;
+    margin-top: 25px;
+}
+.contacts {
+    padding: 10px;
+    margin-top: 140px; /* Сместим вниз, чтобы не перекрывалось с фото */
+    float: right;      /* Выравниваем блок вправо */
+}
+
+.skills {
+    float: right;      /* Выравниваем блок вправо */
+    margin-top: 20px;  /* Задаем отступ сверху */
+}
+
+.section {
+    margin-top: 20px;
+    right: 5px;
+}
+
+.section-title {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+ul {
+    list-style-type: disc;
+    padding-left: 20px;
+}
+
+
+
